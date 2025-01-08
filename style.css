@@ -1,0 +1,15 @@
+body {
+    height: 100%;
+    width: 100%;
+    font-family: "Lacquer", serif !important;
+    background-color: white;
+  background-image: url(abstract-white-monochrome-background-vector-32028465.jpg);
+}
+.carosel-inner{
+    border: 25px;
+  }
+  .carosel-item img{
+    height: 80vh;
+    border-radius: 25px;
+  }
+  
