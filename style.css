@@ -1,9 +1,24 @@
 body {
     height: 100%;
     width: 100%;
-    font-family: "Lacquer", serif !important;
+    font-family: "agu Display" !important;
     background-color: white;
+    text-align: c;
+    color: black;
   background-image: url(abstract-white-monochrome-background-vector-32028465.jpg);
+
+  }
+  .navbar{
+    background-color: #012F4F;
+  }
+  .navbar-brand{
+    color: white;
+  }
+  .card-text{
+    color: black;
+  }
+  .card{
+    text-align: center;
 }
 .carosel-inner{
     border: 25px;
@@ -12,4 +27,9 @@ body {
     height: 80vh;
     border-radius: 25px;
   }
-  
+  h1{
+    text-align: center;
+  }
+  h2{
+    text-align: center;
+  }
